@@ -6,11 +6,11 @@ Stock-management desktop app for an electronics company.
 
 Built with Python, Qt and SQLite. First ever project!
 
-<div style="text-align:center;">
-    <img src="demo/python.png" width="120" style="margin: 10px">
-    <img src="demo/qt.svg" width="150" style="margin: 10px">
-    <img src="demo/sqlite.png" width="250" style="margin: 10px">
-</div>
+<p align="center">
+    <img src="demo/python.png" width="120" style="margin: 10px;">
+    <img src="demo/qt.svg" width="150" style="margin: 10px;">
+    <img src="demo/sqlite.png" width="250" style="margin: 10px;">
+</p>
 
 ## Overview
 
@@ -92,11 +92,11 @@ To edit a component, Press `Ingreso de componentes` and select `Editar component
 
 To delete a component, Press `Ingreso de componentes` and select `Borrar componente`. Search for a component and press `Ejecutar`.
 
-<div style="text-align:center; vertical-align: middle;">
-    <img src="demo/component_create.png" style="margin: 10px 10px 65px 10px">
-    <img src="demo/component_edit.png" style="margin: 10px">
-    <img src="demo/component_delete.png" style="margin: 10px 10px 65px 10px">
-</div>
+<p align="center">
+    <img src="demo/component_create.png" style="margin: 10px 10px 65px 10px;">
+    <img src="demo/component_edit.png" style="margin: 10px;">
+    <img src="demo/component_delete.png" style="margin: 10px 10px 65px 10px;">
+</p>
 
 ### Viewing component details
 
@@ -116,11 +116,10 @@ To edit a recipe, Press `Recetas de productos` and select `Editar receta`. Searc
 
 To delete a recipe, Press `Recetas de productos` and select `Borrar receta`. Search for a component and press `Ejecutar`.
 
-<div style="text-align:center; vertical-align: middle;">
-    <img src="demo/recipe_create.png" style="margin: 10px">
-    <img src="demo/recipe_edit.png" style="margin: 10px 10px 12px 10px">
-    <img src="demo/recipe_delete.png" style="margin: 10px 10px 12px 10px">
-</div>
+<p align="center">
+    <img src="demo/recipe_create.png" style="margin: 10px;">
+    <img src="demo/recipe_edit.png" style="margin: 10px 10px 12px 10px;">
+</p>
 
 ## Configuration
 
@@ -184,10 +183,10 @@ Press `Base de datos`, select `Respaldar base` and confirm. The backup database 
 
 Press `Base de datos`, select `Editar usuario` and enter a new name for the user. This username will be reflected in the status bar and in the secondary tables `Movimientos` and `Configuraciones`.
 
-<div style="text-align:center; vertical-align: middle;">
-    <img src="demo/db_backup.png" style="margin: 10px">
-    <img src="demo/rename_user.png" style="margin: 10px 10px 20px 10px">
-</div>
+<p align="center">
+    <img src="demo/db_backup.png" style="margin: 10px;">
+    <img src="demo/rename_user.png" style="margin: 10px 10px 20px 10px;">
+</p>
 
 ### Shortcuts
 
